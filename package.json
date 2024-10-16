@@ -2,9 +2,9 @@
   "name": "dsa",
   "version": "1.0.0",
   "description": "Documenting my dsa journey",
-  "main": "index.js",
+  "main": "slidingWindow.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon array/slidingWindow.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Hasin-alam98/Dsa-Journey-/issues"
   },
-  "homepage": "https://github.com/Hasin-alam98/Dsa-Journey-#readme"
+  "homepage": "https://github.com/Hasin-alam98/Dsa-Journey-#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
 }
