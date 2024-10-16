@@ -1,0 +1,19 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Documenting my dsa journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasin-alam98/Dsa-Journey-.git"
+  },
+  "author": "Hasin bin alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasin-alam98/Dsa-Journey-/issues"
+  },
+  "homepage": "https://github.com/Hasin-alam98/Dsa-Journey-#readme"
+}
