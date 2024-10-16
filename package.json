@@ -4,7 +4,7 @@
   "description": "Documenting my dsa journey",
   "main": "slidingWindow.js",
   "scripts": {
-    "start": "nodemon array/slidingWindow.js"
+    "start": "nodemon array/twoPointer4.js"
   },
   "repository": {
     "type": "git",
