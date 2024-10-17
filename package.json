@@ -2,9 +2,9 @@
   "name": "dsa",
   "version": "1.0.0",
   "description": "Documenting my dsa journey",
-  "main": "slidingWindow.js",
+  "main": "array/longest substring",
   "scripts": {
-    "start": "nodemon array/twoPointer4.js"
+    "start": "nodemon array/longest substring"
   },
   "repository": {
     "type": "git",
